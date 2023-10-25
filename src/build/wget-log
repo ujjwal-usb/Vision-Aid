@@ -1,0 +1,8 @@
+--2023-06-02 14:03:42--  https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+Resolving dl.google.com (dl.google.com)... 2404:6800:4009:812::200e, 142.250.67.174
+Connecting to dl.google.com (dl.google.com)|2404:6800:4009:812::200e|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93841272 (89M) [application/x-debian-package]
+Saving to: ‘google-chrome-stable_current_amd64.deb’
+
+rrent_amd64.deb      34%[=====>              ]  31.06M  21.2KB/s    eta 44m 25srent_amd64.deb       34%[=====>              ]  31.07M  21.1KB/s    eta 44m 25s
